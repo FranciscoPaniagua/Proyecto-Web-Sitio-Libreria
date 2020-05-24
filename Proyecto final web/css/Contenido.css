@@ -1,0 +1,29 @@
+#top {
+	text-align:left;
+	width:100%;
+	height:60px;
+	background-color:#86af49;
+	color:#e3eaa7;
+	font-size:35px;
+	padding-top: 15px;  
+	padding-left: 10px; 
+}
+body{
+	background-color: #b5e7a0;
+}
+#imgUser{
+	width: 30px;
+	height: 30px;
+	margin-left: 1060px;
+}
+
+#barrabusq{
+	width: 900px;
+	height: 25px;
+}
+
+#btnBuscar{
+	width: 100px;
+	height: 31px;
+}
+

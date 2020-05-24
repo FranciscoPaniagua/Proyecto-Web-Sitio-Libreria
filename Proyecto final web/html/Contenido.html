@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="esp" charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="../css/Contenido.css">
+	<script type="text/javascript" src="../js/Contenido.js"></script>
+		 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<div  id="top">
+	Librería
+	<img src="../img/user.png" alt="Imágen no disponible." id="imgUser">
+		<a href="Perfil.php" target="blank"><button id="btnPerfil">Perfil</button></a>
+</div>
+<br>
+<div>
+	<form action="Busqueda.html">
+		<input type="textbox" name="claves" id="barrabusq" placeholder="Palabras Clave" required="Debe ingresar palabras clave para su búsqueda"><input type="submit" name="btnBuscar" value="Buscar" id="btnBuscar">
+	</form>
+</div>
+<br>
+<!-- style="border-style:solid;border-width:1px; -->
+<div id="sugerencias" align="center">
+	<h1 align="left">Sugerencias:</h1>
+
+	<a id="linkNombre" href="../html/Datos%20del%20libro.html" target="blank"><h2 align="center" id="nombre">El Psicoanalista</h2></a>
+
+<button id="izq" onclick="izq();">Atrás</button>
+<a id="linkLibro" href="../html/Datos%20del%20libro.html" target="blank"><img src="../img/analista.jpg" alt="Imagen no disponible" id="slider" width="200px" height="250px" border="1px"></a>
+<button id="der" onclick="der();">Siguiente</button>
+</div>
+<hr>
+<br>
+<div id="volver_a_leer" align="center">
+	<h1 align="left">Volver a leer:</h1>
+	<a id="linkNombre2" href="../html/Datos%20del%20libro.html" target="blank"><h2 align="center" id="nombre2">El Psicoanalista</h2></a>
+	<button id="izq2" onclick="izq2();">Atrás</button>
+<a id="linkLibro2" href="../html/Datos%20del%20libro.html" target="blank"><img src="../img/analista.jpg" alt="Imagen no disponible" id="slider2" width="200px" height="250px" border="1px"></a>
+<button id="der2" onclick="der2();">Siguiente</button>
+</div>
+<hr>
+<br>
+<div id="lo_mas_leido" align="center">
+		<h1 align="left">Lo más leído:</h1>
+		<a id="linkNombre3" href="../html/Datos%20del%20libro.html" target="blank"><h2 align="center" id="nombre3">El Psicoanalista</h2></a>
+	<button id="izq3" onclick="izq3();">Atrás</button>
+<a id="linkLibro3" href="../html/Datos%20del%20libro.html" target="blank"><img src="../img/analista.jpg" alt="Imagen no disponible" id="slider3" width="200px" height="250px" border="1px"></a>
+<button id="der3" onclick="der3();">Siguiente</button>
+</div>
+</body>
+</html>

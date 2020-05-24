@@ -1,0 +1,128 @@
+#Lib{
+		background-color: #86af49;
+	color: #e3eaa7;
+	width: 100%;
+	height: 60px;
+	font-size: 50px;
+	text-align: center;
+	font-family: inherit;
+}
+body{
+		background-color: #d5e1df;
+		  font-family: Helvetica, Arial, sans-serif;
+}
+#formBus .txtBuscar{
+width: 900px;
+height: 25px;
+margin-left:  150px;
+}
+#formBus .btnBus{
+	width: 100px;
+	height: 30px;
+}
+#Lib .btnAcceder{
+	background-color: inherit;
+	height: 25px;
+	color: #e3eaa7;
+	}
+#Lib .pdf{
+		width: 30px;
+	height: 30px;
+	margin-left: 900px;
+}
+img.imgViento{
+	width: 300px;
+	height: 350px;
+	margin-left: 147px;
+}
+h1{
+	position: absolute;
+	top: 125px;
+	left: 500px;
+}
+#Autor{
+	position: absolute;
+	top: 180px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;
+}
+#Gen{
+	position: absolute;
+	top: 230px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;
+}
+#Genero{
+	position: absolute;
+	top: 230px;
+	left: 700px;
+	font-family: inherit;
+	font-size: 20px;
+}
+#Ed{
+	position: absolute;
+	top: 270px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#Aed{
+	position: absolute;
+	top: 310px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#ISB{
+	position: absolute;
+	top: 350px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#Idiom{
+	position: absolute;
+	top: 390px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#Editorial{
+	position: absolute;
+	top: 270px;
+	left: 700px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#AnioEdici{
+	position: absolute;
+	top: 310px;
+	left: 700px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#ISBN{
+	position: absolute;
+	top: 350px;
+	left: 700px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#Idioma{
+	position: absolute;
+	top: 390px;
+	left: 700px;
+	font-family: inherit;
+	font-size: 20px;	
+}
+#btnVer{
+	position: absolute;
+	top: 475px;
+	left: 500px;
+	font-family: inherit;
+	font-size: 18px;
+	width: 80px;
+	height: 25px;
+}

@@ -1,0 +1,61 @@
+body{
+	background-color: #b5e7a0;
+}
+div.titulo{
+	background-color: #86af49;
+	color: #e3eaa7;
+	width: 100%;
+	height: 60px;
+	font-size: 50px;
+	text-align: center;
+}
+
+.Image1{
+	width: 200px;
+	height: 200px;
+	background-attachment: fixed;
+
+}
+
+#divForm{
+	text-align: center;
+}
+#form1 .texto1{
+
+    margin-right:  55px;
+    padding-right: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+#form1 .texto2{
+ margin-right:  30px;
+    padding-right: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+#form1 .texto3{
+ margin-right:  -10px;
+ padding-right: 25px;
+ font-family: Helvetica, Arial, sans-serif;
+
+}
+#form1 .texto4{
+ margin-right:  65px;
+    padding-right: 25px;
+      font-family: Helvetica, Arial, sans-serif;
+     }
+#form1 .input1{
+		 
+   	
+}
+#form1 .input2{
+	
+   	
+}
+#form1 .input3{
+
+  
+}
+#form1 .boton{
+	 margin-right:  -240px;
+    padding-right: 10px;
+       font-family: Helvetica, Arial, sans-serif;
+}

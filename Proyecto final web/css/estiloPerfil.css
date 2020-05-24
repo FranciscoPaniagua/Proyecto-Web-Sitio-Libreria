@@ -1,0 +1,52 @@
+#perfil{
+		background-color: #86af49;
+	color: #e3eaa7;
+	width: 100%;
+	height: 60px;
+	font-size: 50px;
+	text-align: center;
+	font-family: inherit;
+}
+body{
+		background-color: #b5e7a0;
+		  font-family: Helvetica, Arial, sans-serif;
+}
+#Image .imagen1{
+	width: 200px;
+	height: 200px;
+
+}
+
+#form1{
+	text-align:center;
+}
+
+.label1{
+	margin-right: 107px;
+}
+
+.label2{
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+.label3{
+	margin-right: 33px;
+}
+
+.label4{
+	margin-right: 10px;
+}
+
+.btnguardar{
+	height: 25px;
+	width: 120px;
+	margin-right: -220px;
+
+}
+#btnvolver{
+	height: 25px;
+	width: 170px;
+	margin-right: -220px;
+
+}

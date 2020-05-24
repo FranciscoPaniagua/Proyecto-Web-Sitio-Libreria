@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Agregar</title>
+		<link rel="stylesheet" type="text/css" href="../css/AgUsuario.css">
+		 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+		<h1>Agregar nuevo usuario</h1>
+	<div class="Image" align="center"><img class="Image1" src="../img/user.png"></div><br/>
+	<form id="form1" method="post" action="AgregarUsuario.php">
+	
+		<label id="texto1">Usuario:</label><input id="input1" type="textbox" name="User" required="Ingrese texto"><br><br>
+		<label id="texto2">Contraseña:</label><input id="input2" type="password" name="pass1" required="Ingrese texto"><br><br>
+		<label id="texto3">Conf. contraseña:</label><input id="input3" type="password" name="pass2"required="Ingrese texto"><br><br>
+		<label id="texto4">e-mail:</label><input id="input4" type="textbox" name="correo" required="Ingrese texto"><br><br>
+		<input id="boton" type="submit" name="Agregar" value="Agregar">
+	</form>
+	<br>
+	<form  action="UsuariosAdmin.php" align="center"><input id="formVolver" type="submit" value="Volver"></form>
+<br>
+<br>
+
+</body>
+</html>

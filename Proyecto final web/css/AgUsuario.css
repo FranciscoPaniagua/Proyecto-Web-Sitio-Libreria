@@ -1,0 +1,58 @@
+body{
+	background-color: #b5e7a0;
+}
+h1{
+	background-color: #86af49;
+	color: #e3eaa7;
+	width: 100%;
+	height: 60px;
+	font-size: 50px;
+	text-align: center;
+}
+.Image1{
+	width: 200px;
+	height: 200px;
+	background-attachment: fixed;
+
+}
+#form1{
+	text-align: center;
+}
+#texto1{
+
+    margin-right:  55px;
+    padding-right: 20px;
+  font-family: Helvetica, Arial, sans-serif;}
+
+#texto2{
+ margin-right:  30px;
+    padding-right: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+#texto3{
+ margin-right:  -10px;
+ padding-right: 25px;
+ font-family: Helvetica, Arial, sans-serif;
+
+}
+#texto4{
+ margin-right:  65px;
+    padding-right: 25px;
+      font-family: Helvetica, Arial, sans-serif;
+     }
+
+#boton{
+margin-right:  -247px;
+padding-right: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+#volver{
+margin-right:  -100px;
+padding-right: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+#formVolver {
+	background-color: #b5e7a0;
+	margin-right:  -247px;
+}
